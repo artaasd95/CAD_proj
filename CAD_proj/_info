@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Programing/VHDL/CAD_HW3
+Enine_counter
+Z0 w1485022860
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dE:/Programing/VHDL/CAD_proj
+Z5 8E:/Programing/VHDL/CAD_proj/counter.vhd
+Z6 FE:/Programing/VHDL/CAD_proj/counter.vhd
+l0
+L5
+VFR]=3<^0zNcTP7T316Y;T1
+!s100 FT[<HgLZ6mZjODddGCkRS3
+Z7 OL;C;10.5;63
+32
+Z8 !s110 1485022865
+!i10b 1
+Z9 !s108 1485022865.000000
+Z10 !s90 -reportprogress|300|-work|CAD_proj|-2002|-explicit|-vopt|-stats=none|E:/Programing/VHDL/CAD_proj/counter.vhd|
+Z11 !s107 E:/Programing/VHDL/CAD_proj/counter.vhd|
+!i113 0
+Z12 o-work CAD_proj -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+Z14 DEx4 work 12 nine_counter 0 22 FR]=3<^0zNcTP7T316Y;T1
+l15
+L12
+Z15 VRB73=8jl7oLCD6MUof7h52
+Z16 !s100 =gQ<W;NX1:fO8LHDE93>K0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
